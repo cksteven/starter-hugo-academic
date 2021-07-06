@@ -75,4 +75,4 @@ highlight_name: false
 
 __克松正在寻找2022年的暑期实习，岗位可以是科研、机器学习、或者软件开发。__
 
-{{< icon name="download" pack="fas" >}} 下载我的{{< staticref "uploads/demo_resume.pdf" "newtab" >}}简历{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 下载我的{{< staticref "uploads/Kesong Cao - resume.pdf" "newtab" >}}简历{{< /staticref >}}.

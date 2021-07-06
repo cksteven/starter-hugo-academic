@@ -75,4 +75,4 @@ Kesong Cao is a first-year Psychology graduate student at UW-Madison. His resear
 
 __Kesong is seeking a Summer 2022 internship position as a researcher, machine learning engineer, or software development engineer.__
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Kesong Cao - resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
