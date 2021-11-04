@@ -20,8 +20,8 @@ bio: My research interests include human cognition and behavior such as language
 interests:
 # - Cognition
 - Language
-- Decision-making
-- Memory
+- Categorization
+- Learning
 # - Machine Learning
 - Natural Language Processing
 - Reinforcement Learning
@@ -29,10 +29,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Psychology
+  - course: Ph.D. in Psychology
     institution: University of Wisconsin-Madison
     year: 2026 (Expected)
-  - course: BA in Computer Sciences and Economics
+  - course: B.A. in Computer Sciences and Economics
     institution: University of Wisconsin-Madison
     year: 2020
 
@@ -68,11 +68,11 @@ social:
 email: "kesong.cao@wisc.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Kesong Cao is a first-year Psychology graduate student at UW-Madison. His research interests include human cognition and behavior such as language and decision-making, and machine learning fields such as natural language processing and reinforcement learning. He is a member of [Austerweil Lab](https://alab.psych.wisc.edu/), advised by Prof. Joseph Austerweil. He enjoys coding and problem-solving.
-
-__Kesong is seeking a Summer 2022 internship position as a researcher, machine learning engineer, or software development engineer.__
+Kesong Cao is a first-year Psychology graduate student at UW-Madison. His research interests include human cognition and behavior such as language, categorization, learning, and machine learning fields such as natural language processing and reinforcement learning. He is a member of [Austerweil Lab](https://alab.psych.wisc.edu/), advised by Prof. Joseph Austerweil. He enjoys coding and problem-solving.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Kesong Cao - resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+In my spare time, I [translate xkcd comics into Chinese](https://xkcd.in/). I also engage in activities with [TAA](https://taa-madison.org/) as a grad student, with Departmental Psych Colloquium Committee as a Psych grad student and a web/graphic designer, and with [Chinese Psychelogos](https://mp.weixin.qq.com/s/tDRr-7AKNKL_DQHjM3jpfA) as a Chinese Psych grad student.

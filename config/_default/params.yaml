@@ -70,9 +70,9 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/cksteven/starter-hugo-academic'
     content_dir: content
-    branch: main
+    branch: master
   avatar:
     gravatar: false
     shape: circle
@@ -89,7 +89,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''
