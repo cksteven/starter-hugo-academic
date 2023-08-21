@@ -15,7 +15,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-
+  email: contact [AT] croissant [DOT] dev
 #   # Email form provider
 #   form:
 #     provider: netlify
