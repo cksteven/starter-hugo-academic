@@ -67,13 +67,16 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "kesong.cao@wisc.edu"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 Croissant AI is a new-founded startup based in Hong Kong and Shanghai, China. Keep an eye on us! 👀
+
+![croissant logo with company short names in English and Chinese](/uploads/croissant-logo-w-text.png)
+
 <!-- Kesong Cao is a first-year Psychology graduate student at UW-Madison. His research interests include human cognition and behavior such as language, categorization, learning, and machine learning fields such as natural language processing and reinforcement learning. He is a member of [Austerweil Lab](https://alab.psych.wisc.edu/), advised by Prof. Joseph Austerweil. He enjoys coding and problem-solving.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Kesong Cao - resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
